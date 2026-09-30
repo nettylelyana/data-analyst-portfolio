@@ -86,22 +86,6 @@ Key metrics include:
 - **SQL / PostgreSQL** — querying and data checks
 - **Power BI Desktop** — dashboard and visualization
 
-## Project Files
-
-```text
-financial-performance-analysis/
-├── README.md
-├── images/
-│   ├── financial_performance_dashboard.png
-│   └── company_financial_summary.png
-├── sql/
-│   └── financial_analysis.sql
-├── excel/
-│   └── financial_analysis.xlsx
-└── powerbi/
-    └── financial_performance_analysis.pbix
-```
-
 ## Note
 
 This is an analytical portfolio project based on publicly available financial information. The **Strong / Moderate / Weak** classifications are analytical summaries based on the selected financial metrics and are intended to communicate the results of this analysis, not investment recommendations.
